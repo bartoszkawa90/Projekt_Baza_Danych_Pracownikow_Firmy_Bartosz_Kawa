@@ -1,0 +1,41 @@
+pass
+3
+Adam
+Kowalski
+23
+11.12.1999
+Krakow
+Mila
+15
+is currently a worker
+Tynkarz
+4
+Adam
+Nowak
+25
+11.12.1997
+Krakow
+Niemila
+16
+is currently a worker
+Konserwator
+5
+Tomasz
+Kruk
+19
+13.2.2003
+Krakow
+ul. Kosciuszki
+128
+Is a worker, temporarily
+Tester
+7
+Maciej
+Kowal
+55
+4.2.1967
+Krakow
+Czarnowiejska
+5
+is no longer a worker
+Project manager

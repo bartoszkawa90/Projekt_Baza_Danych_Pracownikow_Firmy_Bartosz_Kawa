@@ -1,0 +1,65 @@
+{
+  "DB": [
+    [
+      1,
+      "Adam",
+      "Kowalski",
+      23,
+      "1.2.1999",
+      "Krakow",
+      "Mila",
+      12,
+      "is currently a worker",
+      "Tynkarz"
+    ],
+    [
+      2,
+      "Adam",
+      "Nowak",
+      22,
+      "1.5.2000",
+      "Krakow",
+      "Mila",
+      14,
+      "is currently a worker",
+      "Murarz"
+    ],
+    [
+      3,
+      "Tomasz",
+      "Nokawow",
+      21,
+      "2.12.2001",
+      "Krakow",
+      "Mila",
+      15,
+      "is currently a worker",
+      "tynkarz"
+    ],
+    [
+      4,
+      "Agniszka",
+      "Sowa",
+      24,
+      "1.2.1998",
+      "Krakow",
+      "Czarnowiejska",
+      16,
+      "is on maternity leave",
+      "Project manager"
+    ],
+    [
+      5,
+      "Weronika",
+      "Kot",
+      55,
+      "12.2.1967",
+      "Krakow",
+      "ul. Rejmonta",
+      128,
+      "is currently a worker",
+      "Project manager"
+    ]
+  ],
+  "Password": "pass"
+}
