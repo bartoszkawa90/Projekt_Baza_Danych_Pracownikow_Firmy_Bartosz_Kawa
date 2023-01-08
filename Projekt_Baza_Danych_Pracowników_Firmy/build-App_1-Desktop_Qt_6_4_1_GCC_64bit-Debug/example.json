@@ -1,0 +1,64 @@
+{
+  "DB": [
+    [
+      1,
+      "adam",
+      "kowalski",
+      1000000,
+      "1.2.1",
+      "Kraków",
+      "Miła",
+      12,
+      "is a worker",
+      "tynkarz"
+    ],
+    [
+      2,
+      "adam",
+      "nowak",
+      24,
+      "1.2.3",
+      "Kraków",
+      "Miła",
+      14,
+      "is a worker",
+      "akrobata"
+    ],
+    [
+      3,
+      "adam",
+      "nokawow",
+      54,
+      "123.2.1",
+      "Kraków",
+      "Miła",
+      15,
+      "is a worker",
+      "tynkarz"
+    ],
+    [
+      4,
+      "adam",
+      "blebibibi",
+      64,
+      "1.2.2022",
+      "Kraków",
+      "Miła",
+      16,
+      "is a worker",
+      "akrobata"
+    ],
+    [
+      5,
+      "adam",
+      "sdfghjk",
+      4,
+      "1.2.1999",
+      "Kraków",
+      "Miła",
+      128,
+      "is a worker",
+      "tynkarz"
+    ]
+  ]
+}
